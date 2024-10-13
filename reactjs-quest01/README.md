@@ -9,9 +9,6 @@ The three exercises are achieved with the required changes.
 
 ## Installation
 To install the exercises, clone the repo with following command:
-```bash
-    git clone https://git.us.qwasar.io/reactjs-quest01_173450_w9uyyk/reactjs-quest01.git
-```
 - To run ex00, follow the following
 ```bash
     cd reactjs-quest01/ex00
